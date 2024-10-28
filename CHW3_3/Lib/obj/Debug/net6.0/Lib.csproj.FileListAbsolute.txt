@@ -1,0 +1,11 @@
+/Users/sergeyrastvorov/CsharpProjects/CHW3_3/Lib/bin/Debug/net6.0/Lib.deps.json
+/Users/sergeyrastvorov/CsharpProjects/CHW3_3/Lib/bin/Debug/net6.0/Lib.dll
+/Users/sergeyrastvorov/CsharpProjects/CHW3_3/Lib/bin/Debug/net6.0/Lib.pdb
+/Users/sergeyrastvorov/CsharpProjects/CHW3_3/Lib/obj/Debug/net6.0/Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeyrastvorov/CsharpProjects/CHW3_3/Lib/obj/Debug/net6.0/Lib.AssemblyInfoInputs.cache
+/Users/sergeyrastvorov/CsharpProjects/CHW3_3/Lib/obj/Debug/net6.0/Lib.AssemblyInfo.cs
+/Users/sergeyrastvorov/CsharpProjects/CHW3_3/Lib/obj/Debug/net6.0/Lib.csproj.CoreCompileInputs.cache
+/Users/sergeyrastvorov/CsharpProjects/CHW3_3/Lib/obj/Debug/net6.0/Lib.dll
+/Users/sergeyrastvorov/CsharpProjects/CHW3_3/Lib/obj/Debug/net6.0/refint/Lib.dll
+/Users/sergeyrastvorov/CsharpProjects/CHW3_3/Lib/obj/Debug/net6.0/Lib.pdb
+/Users/sergeyrastvorov/CsharpProjects/CHW3_3/Lib/obj/Debug/net6.0/ref/Lib.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PuA155ABH8cDhkX/QXF1ti5654Uz/whQwPeCvLY3iEaZKiKfiSIdjl80bWjqs+El9uQ9oxSI7mBWHTlqlwRDIg==",
+  "success": true,
+  "projectFilePath": "/Users/sergeyrastvorov/CsharpProjects/CHW3_3/Lib/Lib.csproj",
+  "expectedPackageFiles": [
+    "/Users/sergeyrastvorov/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "/Users/sergeyrastvorov/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
