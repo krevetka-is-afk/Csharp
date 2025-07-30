@@ -6,12 +6,11 @@ using Telegram.Bot.Exceptions;
 using System.Reflection;
 using Lib;
 
-// bot id ---> @electrocar_power_bot
-// bot token > 7006621448:AAG9fhbGoKxM3ApCb4Vf-eb_C8eAuUDhEag
+
 // Растворов Сергей 236
 class Program
 {
-    private static string token = "7006621448:AAG9fhbGoKxM3ApCb4Vf-eb_C8eAuUDhEag";
+    private static string token = "";
     static readonly ConcurrentDictionary<long, string[]> Answers = new ConcurrentDictionary<long, string[]>(); // словарь -- хранилище ответов пользователя
     static void Main(string[] args)
     {
